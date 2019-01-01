@@ -1,0 +1,38 @@
+{
+  "lightTheme": {
+      "header": {
+          "height": "50px",
+          "background": "#627CA2"
+      },
+      "body": {
+          "bg": "#fff",
+          "color": "#000"
+      },
+      "cell": {
+          "bg": "#BDC2E5",
+          "activeBg": "#2ecc71",
+          "failedBg": "#e74c3c"
+      },
+      "loader": {
+          "bg": "#627CA2"
+      }
+  },
+  "darkTheme": {
+      "header": {
+          "height": "50px",
+          "background": "#627CA2"
+      },
+      "body": {
+          "bg": "#282C37",
+          "color": "#F9F9FC"
+      },
+      "cell": {
+          "bg": "#3B3F49",
+          "activeBg": "#F8CE61",
+          "failedBg": "#F76C6C"
+      },
+      "loader": {
+          "bg": "#627CA2"
+      }
+  }
+}
